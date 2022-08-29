@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="database.About" Collapsed="true">
+    <Position X="3.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABgEAAAAYQFAAEAAAAABABeAAAgAgAgAQIAAAA=</HashCode>
+      <FileName>About.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="database.Contact" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAQAAAAAAAAAAAAAAAIAAAAAAAAAIAEAA=</HashCode>
+      <FileName>Contact.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="database._Default" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIAAAAAAAAAAAAAQAAAAAAAAAAAAQAAAAAAgAAIAAAA=</HashCode>
+      <FileName>Default.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="database.Description" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIAAAAAAEAAQAAAAAAAAAAAAAABAYAAAAAAgAAIAAAA=</HashCode>
+      <FileName>Description.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="database.Descriptionproduct" Collapsed="true">
+    <Position X="7.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAQAAAAAAAAAAAAAAAAQAAAAAAgAAIAAAA=</HashCode>
+      <FileName>Descriptionproduct.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="database.Exit" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAEAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Exit.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
